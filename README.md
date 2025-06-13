@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/version-0.0.1--alpha-red" alt="Version">
   <img src="https://img.shields.io/badge/status-under%20actively%20developed-yellow" alt="Status">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=d9-cloud.cpp-programming-full&color=green" alt="Visitor count">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://api.countapi.xyz/hit/d9-cloud.cpp-programming-full&color=green" alt="Visitor count">
 </p>
 
 ---
