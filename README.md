@@ -1,4 +1,4 @@
-# 📌 c++ full programming
+# 📌 C++ full programming
 
 <p align="center">
   C++ Programming Course With Full Database *(under development)*
