@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++ Logo" width="100">
   <br>
-  <span>This repository will contain all information on C++</span>
+  <strong>This repository will contain all information on C++</strong>
   <br>
   <span>From basics to advanced concepts with practical examples</span>
 </p>
