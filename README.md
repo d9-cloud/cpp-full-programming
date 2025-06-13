@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/version-0.0.1--alpha-red" alt="Version">
-  <img src="https://img.shields.io/badge/status-under%20actively%20developed-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/status--under%20actively%20developed-yellow" alt="Status">
   <img src="https://img.shields.io/github/watchers/d9-cloud/cpp-full-programming-course?label=Visitors&color=success&style=flat" alt="Visitor count">
 </p>
 
