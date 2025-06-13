@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++ Logo" width="100">
+  <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++ Logo" width="120">
   <br>
   <strong>This repository will contain all information on C++</strong>
   <br>
