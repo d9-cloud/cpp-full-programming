@@ -9,9 +9,7 @@
   <br>
   <strong>This repository will contain all information on C++</strong>
   <br>
-  <br>
-  <span>From basics to advanced concepts with practical examples</span>
-  <br>
+  <strong>From basics to advanced concepts with practical examples</strong>
 </p>
 
 <p align="center">
