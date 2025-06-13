@@ -1,7 +1,7 @@
-# 📌 C++ Full Programming
+# 📌 C++ Full Programming Course
 
 <p align="center">
-  C++ Programming Course With Full Database *(under development)*
+  C++ Programming Course With Full Database *(under active development)*
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <br>
   <strong>This repository will contain all information on C++</strong>
   <br>
-  <span>A simple and effective solution for learning C++</span>
+  <span>From basics to advanced concepts with practical examples</span>
 </p>
 
 <p align="center">
