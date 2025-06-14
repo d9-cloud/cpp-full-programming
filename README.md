@@ -40,7 +40,7 @@
 
 ---
 
-## Part 1. Language Basics CPP: Subset C
+### Part 1. Language Basics CPP: Subset C
 
 ### Overview of the C language
 *Coming soon...*
@@ -74,5 +74,5 @@
 
 ---
 
-## Part 2. Language CPP
+### Part 2. Language CPP
 *Coming soon...*
