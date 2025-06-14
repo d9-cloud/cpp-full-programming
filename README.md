@@ -46,6 +46,5 @@
 
 ---
 
-## Part 2. Language 
-
-
+## Part 2. Language
+*Coming soon...*
