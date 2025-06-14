@@ -22,18 +22,18 @@
 
 ## 📚 Table of Contents
 
-### Part 1. C++ Language Basics
+### Part 1. Language Basics
 
 - [📖 Introduction](#introduction)
 - [⚙️ Installing IDE](#installing-ide)
 - [🎯 First Steps](#first-steps)
 
-### Part 2. C++ Language
+### Part 2. Language
 *Coming soon...*
 
 ---
 
-### Part 1. C++ Language Basics
+### Part 1. Language Basics
 
 ### 📖 Introduction
 *Coming soon...*
