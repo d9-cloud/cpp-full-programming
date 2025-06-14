@@ -20,9 +20,7 @@
 
 ---
 
-# 📚 C++ Learning Guide
-
-## Table of Contents
+## 📚 Table of Contents
 
 ### Part 1. C++ Language Basics
 - [📖 Introduction to C++](#-introduction-to-c)
