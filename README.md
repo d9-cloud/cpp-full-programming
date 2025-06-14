@@ -1,4 +1,4 @@
-# 📌 C++ Full Programming Course
+# C++ Full Programming Course
 
 <p align="center">
   <strong>C++ Programming Course With Full Database, (under active development)<strong>
@@ -20,7 +20,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 ### Part 1. Language Basics
 
@@ -35,11 +35,11 @@
 
 ### Part 1. Language Basics
 
-### 📖 Introduction
+### Introduction
 *Coming soon...*
 
-### ⚙️ Installing IDE
+### Installing IDE
 *Coming soon...*
 
-### 🎯 First Steps
+### First Steps
 *Coming soon...*
