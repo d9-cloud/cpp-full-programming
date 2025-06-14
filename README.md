@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/version-0.0.2--alpha-red" alt="Version">
   <img src="https://img.shields.io/badge/status-under%20active%20developed-yellow" alt="Status">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/d9-cloud/cpp-full-programming-course?style=social)
+[![Star this repo](https://img.shields.io/github/stars/d9-cloud/cpp-full-programming-course?style=flat-square&label=Star)](https://github.com/ваш-юзернейм/ваш-репозиторий/stargazers)
 </p>
 
 ---
