@@ -22,7 +22,7 @@
 
 ## Table of Contents
 
-- [Part 1. Language Basics C++: Subset C](#part-1-language-basics-c++-subset-c)
+- [Part 1. Language Basics C++: Subset C](#part-1-language-basics-c-subset-c)
 - [Overview of the C language](#overview-of-the-c-language)
 - [Expressions](#expressions)
 - [Operators](#operators)
