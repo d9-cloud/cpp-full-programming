@@ -21,11 +21,11 @@
 ---
 
 ## 📚 Table of Contents
-- [What is C++?](#-what-is-c++?)
+- [Introduction to C++](#-introduction-to-c++)
 - [IDE](#-ide)
 - [First Steps](#-first-steps)
 
-## 📖 What is C++?
+## 📖 Introduction to C++
 
 
 
