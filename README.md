@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/version-0.0.1--alpha-red" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.0.2--alpha-red" alt="Version">
   <img src="https://img.shields.io/badge/status-under%20active%20developed-yellow" alt="Status">
 </p>
 
