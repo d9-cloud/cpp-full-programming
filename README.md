@@ -27,6 +27,13 @@
 - [Overview of the C language](#overview-of-the-c-language)
 - [Expressions](#expressions)
 - [Operators](#operators)
+- [Arrays and Strings](#arrays-and-strings)
+- [Pointers](#pointers)
+- [Functions](#functions)
+- [Structures, unions, enumerations and the typedef operator](#structures-unions-enumerations-and-the-typedef-operator)
+- [Input-output to console](#input-output-to-console)
+- [File input-output](#file-input-output)
+- [Preprocessor and comments](#preprocessor-and-comments)
 
 ### Part 2. Language CPP
 *Coming soon...*
@@ -42,6 +49,27 @@
 *Coming soon...*
 
 ### Operators
+*Coming soon...*
+
+### Arrays and Strings
+*Coming soon...*
+
+### Pointers
+*Coming soon...*
+
+### Functions
+*Coming soon...*
+
+### Structures, unions, enumerations and the typedef operator
+*Coming soon...*
+
+### Input-output to console
+*Coming soon...*
+
+### File input-output
+*Coming soon...*
+
+### Preprocessor and comments
 *Coming soon...*
 
 ---
