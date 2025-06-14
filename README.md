@@ -33,7 +33,7 @@
 
 ---
 
-### Part 1. Language Basics
+## Part 1. Language Basics
 
 ### Introduction
 *Coming soon...*
