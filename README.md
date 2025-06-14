@@ -32,6 +32,8 @@
 
 ---
 
+### Part 1. C++ Language Basics
+
 ## 📖 Introduction to C++
 *Coming soon...*
 
