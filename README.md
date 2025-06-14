@@ -34,11 +34,11 @@
 
 ### Part 1. C++ Language Basics
 
-## 📖 Introduction to C++
+### 📖 Introduction to C++
 *Coming soon...*
 
-## ⚙️ Installing IDE
+### ⚙️ Installing IDE
 *Coming soon...*
 
-## 🎯 First Steps
+### 🎯 First Steps
 *Coming soon...*
