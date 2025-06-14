@@ -1,7 +1,7 @@
 # 📌 C++ Full Programming Course
 
 <p align="center">
-  <strong>C++ Programming Course With Full Database, *(under active development)*<strong>
+  <strong>C++ Programming Course With Full Database, <em>under active development</em></strong>
 </p>
 
 <p align="center">
