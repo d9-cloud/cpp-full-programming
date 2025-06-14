@@ -28,7 +28,7 @@
 - [🎯 First Steps](#-first-steps)
 
 ### Part 2. C++ Language
-*(Coming soon...)*
+*Coming soon...*
 
 ---
 
