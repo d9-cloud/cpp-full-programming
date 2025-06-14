@@ -25,6 +25,7 @@ Part 1. C++ LANGUAGE BASICS:
 - [Introduction to C++](#-introduction-to-c++)
 - [Installing IDE](#-installing-ide)
 - [First Steps](#-first-steps)
+Part 2. C++ LANGUAGE
 
 ## 📖 Introduction to C++
 *coming soon*
