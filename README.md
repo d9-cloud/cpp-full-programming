@@ -38,7 +38,6 @@
 ### Part 2. Language CPP
 *Coming soon...*
 
----
 
 ### Part 1. Language Basics CPP: Subset C
 
@@ -72,7 +71,6 @@
 ### Preprocessor and comments
 *Coming soon...*
 
----
 
 ### Part 2. Language CPP
 *Coming soon...*
