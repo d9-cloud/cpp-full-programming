@@ -43,3 +43,9 @@
 
 ### First Steps
 *Coming soon...*
+
+---
+
+## Part 2. Language 
+
+
