@@ -22,20 +22,20 @@
 
 ## Table of Contents
 
-### Part 1. Language Basics
+### Part 1. Language Basics CPP: Subset C
 
-- [Introduction](#introduction)
+- [Overview of the C language](#overview-of-the-c-language)
 - [Installing IDE](#installing-ide)
 - [First Steps](#first-steps)
 
-### Part 2. Language
+### Part 2. Language CPP
 *Coming soon...*
 
 ---
 
-## Part 1. Language Basics
+## Part 1. Language Basics CPP: Subset C
 
-### Introduction
+### Overview of the C language
 *Coming soon...*
 
 ### Installing IDE
@@ -46,5 +46,5 @@
 
 ---
 
-## Part 2. Language
+## Part 2. Language CPP
 *Coming soon...*
