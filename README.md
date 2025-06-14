@@ -24,9 +24,9 @@
 
 ### Part 1. Language Basics
 
-- [📖 Introduction](#introduction)
-- [⚙️ Installing IDE](#installing-ide)
-- [🎯 First Steps](#first-steps)
+- [Introduction](#introduction)
+- [Installing IDE](#installing-ide)
+- [First Steps](#first-steps)
 
 ### Part 2. Language
 *Coming soon...*
