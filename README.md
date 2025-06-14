@@ -26,13 +26,16 @@
 - [First Steps](#-first-steps)
 
 ## 📖 Introduction to C++
+*coming soon*
 
 
 
 
 ## ⚙️ Installing IDE
+*coming soon*
 
 
 
 
 ## 🎯 First Steps
+*coming soon*
