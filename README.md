@@ -35,11 +35,9 @@
 - [File input-output](#file-input-output)
 - [Preprocessor and comments](#preprocessor-and-comments)
 
-### Part 2. Language CPP
-*Coming soon...*
+---
 
-
-### Part 1. Language Basics CPP: Subset C
+## Part 1. Language Basics CPP: Subset C
 
 ### Overview of the C language
 *Coming soon...*
@@ -69,8 +67,4 @@
 *Coming soon...*
 
 ### Preprocessor and comments
-*Coming soon...*
-
-
-### Part 2. Language CPP
 *Coming soon...*
