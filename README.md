@@ -36,7 +36,7 @@
 
 ---
 
-### Part 1. Language Basics C++: Subset C
+## Part 1. Language Basics C++: Subset C
 
 ### Overview of the C language
 *Coming soon...*
