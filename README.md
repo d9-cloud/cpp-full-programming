@@ -22,7 +22,7 @@
 
 ## 📚 Table of Contents
 - [Introduction to C++](#-introduction-to-c++)
-- [IDE](#-ide)
+- [Installing IDE](#-installing-ide)
 - [First Steps](#-first-steps)
 
 ## 📖 Introduction to C++
@@ -30,7 +30,7 @@
 
 
 
-## 🧰 IDE
+## ⚙️ Installing IDE
 
 
 
