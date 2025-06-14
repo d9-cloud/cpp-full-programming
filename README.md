@@ -20,3 +20,9 @@
 
 ---
 
+## 📚 Table of Contents
+- [What is C++?](#-what-is-c++?)
+- [IDE](#-ide)
+- [First Steps](#-first-steps)
+
+## 📖 What is C++?
