@@ -25,8 +25,8 @@
 ### Part 1. Language Basics CPP: Subset C
 
 - [Overview of the C language](#overview-of-the-c-language)
-- [Installing IDE](#installing-ide)
-- [First Steps](#first-steps)
+- [Expressions](#expressions)
+- [Operators](#operators)
 
 ### Part 2. Language CPP
 *Coming soon...*
@@ -38,10 +38,10 @@
 ### Overview of the C language
 *Coming soon...*
 
-### Installing IDE
+### Expressions
 *Coming soon...*
 
-### First Steps
+### Operators
 *Coming soon...*
 
 ---
